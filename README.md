@@ -17,14 +17,14 @@ This is a command-line app with the following switches:
 
 Required:
 
-email       Your Ninite login email
+email       (Your Ninite login email)
 
-password    Your Ninite login password
+password    (Your Ninite login password)
 
 
 Optional:
 
--r, --replace    Download .csv reports from the Apps and Machine Details views of the Pro web interface
+-r, --replace    (Download .csv reports from the Apps and Machine Details views of the Pro web interface)
 
--i, --install    Download and install the Ninite agent .msi (requires you to be on Windows as Ninite is Windows-only)
+-i, --install    (Download and install the Ninite agent .msi (requires you to be on Windows as Ninite is Windows-only))
 
