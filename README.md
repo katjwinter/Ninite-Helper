@@ -1,5 +1,5 @@
 # Ninite-Helper
-This app aims to fill ins ome gaps left by the Ninite Pro web interface,
+This app aims to fill in some gaps left by the Ninite Pro web interface,
 such as the lack of an API from which to fetch reports, add/remove machines, modify policies, etc.
 
 By scheduling or scripting this app, you could also automate the process of
