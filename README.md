@@ -14,11 +14,17 @@ Requirements are pretty simple:
 4. You'll need a Ninite Pro account, otherwise this app won't do much for you. You can sign up for a free two week trial here: https://ninite.com/request_trial
 
 This is a command-line app with the following switches:
+
 Required:
+
 email       Your Ninite login email
+
 password    Your Ninite login password
 
+
 Optional:
+
 -r, --replace    Download .csv reports from the Apps and Machine Details views of the Pro web interface
+
 -i, --install    Download and install the Ninite agent .msi (requires you to be on Windows as Ninite is Windows-only)
 
