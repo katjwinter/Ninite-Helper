@@ -1,8 +1,8 @@
 # Ninite-Helper
 This app aims to fill in some gaps left by the Ninite Pro web interface,
-such as the lack of an API from which to fetch reports, add/remove machines, modify policies, etc.
+such as the lack of an API from which to fetch reports.
 
-By scheduling or scripting this app, you could also automate the process of
+By scheduling or scripting this app, you could automate the process of
 running reports on a regular schedule, or install the agent silently in the background
 without needing to first log in and download the agent installer.
 
