@@ -24,7 +24,7 @@ password    (Your Ninite login password)
 
 Optional:
 
--r, --replace    (Download .csv reports from the Apps and Machine Details views of the Pro web interface)
+-r, --reports    (Download .csv reports from the Apps and Machine Details views of the Pro web interface)
 
 -i, --install    (Download and install the Ninite agent .msi (requires you to be on Windows as Ninite is Windows-only))
 
