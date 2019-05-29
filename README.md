@@ -28,3 +28,6 @@ Optional:
 
 -i, --install    (Download and install the Ninite agent .msi (requires you to be on Windows as Ninite is Windows-only))
 
+For example, to run it and download the reports:
+python ninite_helper.py -r myname@someplace.com mysecretpassword1212
+
